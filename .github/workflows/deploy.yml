@@ -19,12 +19,12 @@ jobs:
         with:
           go-version: '1.23'
 
-      - name: Jalankan Aplikasi Go
-        # Perintah ini sekarang akan dijalankan di direktori root repository
-        # yang sudah di-checkout oleh runner.
+      - name: Lakukan Build Aplikasi Go
+        # Perintah ini akan mengompilasi kode Anda menjadi file biner
+        # File ini akan dinamai 'pk-fiber.exe'
         run: |
           go mod tidy
-          go run main.go
+          go build -o pk-fiber.exe
 
       - name: Pesan Sukses
-        run: echo "Aplikasi Go berhasil dijalankan di GitHub Actions dengan runner lokal."
+        run: echo "Build aplikasi Go berhasil dijalankan di GitHub Actions."
