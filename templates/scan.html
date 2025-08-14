@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>AEON Kota Wisata Stock with Skeleton Loading</title>
+<script src="https://cdn.tailwindcss.com/3.4.16"></script>
+<style>
+    body {
+      font-family: 'Godwit', sans-serif;
+    }
+   main{
+      max-height: calc(100vh - 260px);
+      overflow-x: hidden;
+      overflow-y: scroll;
+   }
+    header svg {
+        width: 20px;
+        height: 20px;
+    }
+    article:before, article:after {
+        content: "";
+        background: #5c4bdb;
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        left: -20px;
+        top: -20px;
+        z-index: +2;
+        transform: rotate(45deg);
+        border-radius: 30%;
+    }
+    article:after {
+        background: #c3bcff;
+        z-index: +1;
+        bottom: -10px;
+        top: unset;
+        transform: rotate(64deg);
+    }
+    .oke:after {background: #9aff9e;}
+    .oke:before {background: #4CAF50;}
+    .oke {border: 2px solid #4CAF50;}
+    article svg {
+        width: 40px;
+        height: 40px;
+        z-index: +3;
+        fill: #5c4bdb;
+        margin-top: -25px;
+        margin-left: -2px;
+        background: #fff;
+        border-radius: 50%;
+        padding: 5px;
+    }
+    
+    .oke svg{fill: #9aff9e;}
+    article .iserux{display:block;}
+    article .ioke{display:none;}
+    .oke .iserux{display:none;}
+    .oke .ioke{display:block;}
+    
+    /* Skeleton animation */
+    .skeleton {
+      position: relative;
+      overflow: hidden;
+      background-color: #e2e8f0; /* Tailwind gray-300 */
+    }
+    .skeleton::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -150px;
+      height: 100%;
+      width: 150px;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+      animation: loading 1.5s infinite;
+    }
+   .a404a h2{
+      font-size: 2.6rem;
+      text-align: center;
+      margin-top: -10vh;
+      color: #fff;
+      background: #5c4bdb;
+      display: block;
+      border-radius: 18px;
+   }
+   .a404a img{
+      width: 100vw;
+      margin: 8vh 0;
+      object-fit: cover;
+   }
+    @keyframes loading {
+      0% {
+        left: -150px;
+      }
+      100% {
+        left: 100%;
+      }
+    }
+</style>
+<body class="bg-white">
+<svg style="display: none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512">
+    <symbol id="ileft" viewBox="0 0 12 12" fill="none">
+        <path d="M7.5 10L3.5 6L7.5 2" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="isearch" viewBox="0 0 24 24" fill="none">
+        <path d="M15 15L20.5 20.5M10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z" stroke="#687176" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="iqr" viewBox="0 0 32 32">
+      <path d="M2 9V5a3 3 0 0 1 3-3h4a1 1 0 0 1 0 2H5a1 1 0 0 0-1 1v4a1 1 0 0 1-2 0zm25-7h-4a1 1 0 0 0 0 2h4a1 1 0 0 1 1 1v4a1 1 0 0 0 2 0V5a3 3 0 0 0-3-3zm2 20a1 1 0 0 0-1 1v4a1 1 0 0 1-1 1h-4a1 1 0 0 0 0 2h4a3 3 0 0 0 3-3v-4a1 1 0 0 0-1-1zM9 28H5a1 1 0 0 1-1-1v-4a1 1 0 0 0-2 0v4a3 3 0 0 0 3 3h4a1 1 0 0 0 0-2zM3 16a1 1 0 0 0 1 1h24a1 1 0 0 0 0-2H4a1 1 0 0 0-1 1z"/>
+    </symbol>
+    <symbol id="irefresh" viewBox="0 0 24 24" fill="none">
+        <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 19h4m0 0v-4m0 4s-5-3-5-7 2-6 2-6m7 3V5m0 0h4m-4 0s5 3 5 7-2 6-2 6"/>
+    </symbol>
+    <symbol id="ipol1" viewBox="0 0 672 185" fill="none">
+        <path d="M-127-301.319s111.381 69.475 209.934 146.083c52.883 41.156 161.504 107.483 175.94 176.688 19.846 87.361-94.025 175.741-161.296 220.019L.11 308.018-127-301.319Z" fill="#29A5FE"/>
+    </symbol>
+    <symbol id="ioke" viewBox="0 0 24 24">
+        
+          <path d="M17.2 5.8a1 1 0 0 1 0 1.4l-6 6.3a1 1 0 1 1-1.5-1.3l6-6.4a1 1 0 0 1 1.5 0zM1.8 13a1 1 0 0 1 1.4 0L6 16a1 1 0 0 1 1.2 1.6l-.5.5a1 1 0 0 1-1.4 0l-3.5-3.7a1 1 0 0 1 0-1.4zm20.4-7.3a1 1 0 0 1 0 1.4l-10.5 11a1 1 0 0 1-1.4 0l-3.5-3.7A1 1 0 1 1 8.2 13l2.8 3 9.8-10.3a1 1 0 0 1 1.4 0z"/>
+    </symbol>
+    <symbol id="iseru" viewBox="0 0 512.051 512.051">
+        <path d="M336.051 432.026c0 44.197-35.829 80.026-80.026 80.026S176 476.223 176 432.026 211.829 352 256.026 352c44.185.028 79.997 35.84 80.025 80.026zM185.318 25.19l13.568 272.026c.68 12.768 11.227 22.775 24.013 22.784h66.56c12.786-.009 23.333-10.016 24.013-22.784L326.784 25.19c.679-13.216-9.485-24.48-22.701-25.159-.42-.022-.84-.032-1.26-.032H209.28c-13.234-.017-23.976 10.696-23.993 23.93-.001.421.01.842.031 1.261z"/>
+    </symbol>
+</svg>
+
+<div id="app"></div>
+<script>
+let h, a = document.createElement("div"), p = Promise.resolve(), ap = document.getElementById("app"), t;
+let lf = (n, u, cb) => {
+  if (!window.FontFace) return cb();
+  let f = new FontFace(n, `url(${u[0]}) format('woff2'), url(${u[1]}) format('woff')`);
+  f.load().then(() => {
+    document.fonts.add(f);
+    cb();
+  }).catch(cb);
+},
+tglindo = i => {
+  let d = new Date(i);
+  return `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getFullYear()).slice(-2)}`;
+},
+gf = [
+  ['Godwit', ['./assets/fonts/GodwitText-Regular.woff2', './assets/fonts/GodwitText-Regular.woff']],
+  ['Godwit', ['./assets/fonts/GodwitText-SemiBold.woff2', './assets/fonts/GodwitText-SemiBold.woff']]
+];
+gf.forEach(fd => {
+  p = p.then(() => new Promise(r => lf(fd[0], fd[1], r)));
+});
+let aj = async u => {
+  try {
+    let r = await fetch(u);
+    if (!r.ok) throw new Error(`HTTP error! Status: ${r.status}`);
+    return await r.json();
+  } catch (e) {}
+},
+cskel = c => {
+  let e = document.createElement("div");
+  e.className = c + " skeleton";
+  e.innerHTML = "&nbsp;";
+  return e;
+},
+llmod = async u => {
+  try {
+    let m, url, p = u.split("/wms/")[1];
+    if (!p) throw new Error("URL tidak mengandung '/wms/'");
+    m = p.split("/")[0],
+    url = u.split("/wms/")[0]+`/wms/assets/app/${m}.js`;
+    return await import(url);
+  } catch (e) {}
+},
+runl = async () => {
+  try {
+    let url = window.location.href;
+    let mod = await llmod(url);
+    if (mod?.main) mod.main();
+    else console.warn("Modul tidak memiliki fungsi 'main'");
+  } catch (e) {}
+};
+runl();
+</script>

@@ -1,0 +1,22 @@
+# .air.toml - config file for Air (live reload)
+
+# Watch these directories for changes
+[build]
+cmd = "go build -o ./tmp/main"
+bin = "tmp/main"
+full_bin = ""
+include_ext = ["go", "tpl", "tmpl", "html"]
+exclude_dir = ["assets", "tmp", "vendor", "node_modules"]
+exclude_file = []
+exclude_regex = ["_test.go"]
+follow_symlink = false
+
+# Run this command when file changes
+[run]
+cmd = "./tmp/main"
+env = ["APP_ENV=development", "PORT=3000"]
+delay = 1000 # milliseconds
+
+# Logging
+[log]
+time = true
