@@ -328,3 +328,16 @@
 [2025-08-14 09:15:00Z INFO Terminal] WRITE LINE: Current runner version: '2.327.1'
 [2025-08-14 09:15:00Z INFO Terminal] WRITE LINE: 2025-08-14 09:15:00Z: Listening for Jobs
 [2025-08-14 09:15:00Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-08-14 09:33:42Z INFO ConfigurationStore] HasCredentials()
+[2025-08-14 09:33:42Z INFO ConfigurationStore] stored False
+[2025-08-14 09:33:42Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-08-14 09:33:42Z INFO Runner] Deleting Runner Session...
+[2025-08-14 09:33:43Z ERR  Terminal] WRITE ERROR: An error occurred: Credentials not stored. Must reconfigure.
+[2025-08-14 09:33:43Z ERR  Listener] System.InvalidOperationException: Credentials not stored. Must reconfigure.
+   at GitHub.Runner.Listener.Configuration.CredentialManager.LoadCredentials(Boolean allowAuthUrlV2)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteRunnerAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)
