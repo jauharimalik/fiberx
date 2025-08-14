@@ -1,0 +1,355 @@
+[2025-08-14 10:00:58Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'Credentials': 'C:\laragon\www\fiberx\actions-runner\.credentials'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'Runner': 'C:\laragon\www\fiberx\actions-runner\.runner'
+[2025-08-14 10:00:58Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-08-14 10:00:58Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2025-08-14 10:00:58Z INFO Listener] Version: 2.327.1
+[2025-08-14 10:00:58Z INFO Listener] Commit: 9513afd82fbc900d13362cdd4fcdab0538f5124e
+[2025-08-14 10:00:58Z INFO Listener] Culture: en-US
+[2025-08-14 10:00:58Z INFO Listener] UI Culture: en-US
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO Listener] Validating directory permissions for: 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO CommandLineParser] Parse
+[2025-08-14 10:00:58Z INFO CommandLineParser] Parsing 1 args
+[2025-08-14 10:00:58Z INFO CommandLineParser] parsing argument
+[2025-08-14 10:00:58Z INFO CommandLineParser] HasArgs: False
+[2025-08-14 10:00:58Z INFO CommandLineParser] Adding Command: run
+[2025-08-14 10:00:58Z INFO Listener] Arguments parsed
+[2025-08-14 10:00:58Z INFO Runner] ExecuteCommand
+[2025-08-14 10:00:58Z INFO ConfigurationStore] currentAssemblyLocation: C:\laragon\www\fiberx\actions-runner\bin\Runner.Listener.dll
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] binPath: C:\laragon\www\fiberx\actions-runner\bin
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] RootFolder: C:\laragon\www\fiberx\actions-runner
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'Runner': 'C:\laragon\www\fiberx\actions-runner\.runner'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] ConfigFilePath: C:\laragon\www\fiberx\actions-runner\.runner
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\laragon\www\fiberx\actions-runner\.runner_migrated'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] MigratedConfigFilePath: C:\laragon\www\fiberx\actions-runner\.runner_migrated
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'Credentials': 'C:\laragon\www\fiberx\actions-runner\.credentials'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] CredFilePath: C:\laragon\www\fiberx\actions-runner\.credentials
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\laragon\www\fiberx\actions-runner\.credentials_migrated'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] MigratedCredFilePath: C:\laragon\www\fiberx\actions-runner\.credentials_migrated
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'Service': 'C:\laragon\www\fiberx\actions-runner\.service'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] ServiceConfigFilePath: C:\laragon\www\fiberx\actions-runner\.service
+[2025-08-14 10:00:58Z INFO CommandSettings] Flag 'help': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Flag 'version': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Flag 'check': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Command 'configure': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Command 'remove': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-08-14 10:00:58Z INFO ConfigurationManager] LoadSettings
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsConfigured()
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-14 10:00:58Z INFO ConfigurationManager] Is configured: True
+[2025-08-14 10:00:58Z INFO ConfigurationStore] Read setting file: 386 chars
+[2025-08-14 10:00:58Z INFO ConfigurationManager] Settings Loaded
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-08-14 10:00:58Z INFO CommandSettings] Command 'run': 'True'
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsConfigured()
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-14 10:00:58Z INFO ConfigurationManager] Is configured: True
+[2025-08-14 10:00:58Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-08-14 10:00:58Z INFO Runner] Set runner startup type - Manual
+[2025-08-14 10:00:58Z INFO CommandSettings] Flag 'once': 'False'
+[2025-08-14 10:00:58Z INFO CommandSettings] Flag 'once': 'False'
+[2025-08-14 10:00:58Z INFO Runner] RunAsync
+[2025-08-14 10:00:58Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-08-14 10:00:58Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2025-08-14 10:00:58Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2025-08-14 10:00:58Z INFO Runner] Falling back to original .runner settings
+[2025-08-14 10:00:58Z INFO Runner] Using BrokerMessageListener
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] Using provided settings
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] {
+  "AgentId": 22,
+  "AgentName": "JO",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/HLVvYa4EQ4gmli2xAFp0jlQMUfJshCbH1feiOknxmXHeaFb9SZ/",
+  "GitHubUrl": "https://github.com/jauharimalik/fiberx",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] Loading Credentials
+[2025-08-14 10:00:58Z INFO ConfigurationStore] HasCredentials()
+[2025-08-14 10:00:58Z INFO ConfigurationStore] stored True
+[2025-08-14 10:00:58Z INFO CredentialManager] GetCredentialProvider
+[2025-08-14 10:00:58Z INFO CredentialManager] Creating type OAuth
+[2025-08-14 10:00:58Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-14 10:00:58Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-14 10:00:58Z INFO HostContext] Well known config file 'RSACredentials': 'C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams'
+[2025-08-14 10:00:58Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] Attempt to create session.
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-08-14 10:00:58Z INFO ConfigurationStore] HasCredentials()
+[2025-08-14 10:00:58Z INFO ConfigurationStore] stored True
+[2025-08-14 10:00:58Z INFO CredentialManager] GetCredentialProvider
+[2025-08-14 10:00:58Z INFO CredentialManager] Creating type OAuth
+[2025-08-14 10:00:58Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-14 10:00:58Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] VssConnection created
+[2025-08-14 10:00:58Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-08-14 10:00:58Z INFO RunnerServer] EstablishVssConnection
+[2025-08-14 10:00:58Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-08-14 10:00:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-14 10:00:58Z INFO RunnerServer] EstablishVssConnection
+[2025-08-14 10:00:58Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-14 10:00:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-14 10:00:58Z INFO RunnerServer] EstablishVssConnection
+[2025-08-14 10:00:58Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-14 10:00:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-14 10:00:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-14 10:00:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-14 10:00:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-14 10:01:00Z INFO BrokerMessageListener] VssConnection created
+[2025-08-14 10:01:00Z INFO Terminal] WRITE LINE: 
+[2025-08-14 10:01:00Z INFO Terminal] WRITE LINE: 
+[2025-08-14 10:01:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-14 10:01:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-14 10:01:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-14 10:01:02Z INFO BrokerMessageListener] Session created.
+[2025-08-14 10:01:02Z INFO Terminal] WRITE LINE: Current runner version: '2.327.1'
+[2025-08-14 10:01:02Z INFO Terminal] WRITE LINE: 2025-08-14 10:01:02Z: Listening for Jobs
+[2025-08-14 10:01:02Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-08-14 10:01:02Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:02Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:03Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:03Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:04Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:04Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:04Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:05Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:05Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:06Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:06Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:07Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:07Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:07Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:08Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:09Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:09Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:09Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:10Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:10Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:11Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:11Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:12Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:12Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:12Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:13Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:13Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:14Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:14Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:15Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:15Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:15Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:16Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:16Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:17Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:17Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:17Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:18Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:18Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:19Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:19Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:20Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:20Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:20Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:21Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:22Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:22Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:23Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:23Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:23Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:24Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:24Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:24Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:25Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:25Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:25Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:26Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:26Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:27Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:27Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:28Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:28Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:28Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:29Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:30Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:30Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:30Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:31Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:31Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:31Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:32Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:32Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:32Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:33Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:33Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:34Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:34Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:34Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:35Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:35Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:36Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:36Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:36Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:37Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:37Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:38Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:38Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:38Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:39Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:39Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:40Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:40Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:40Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:41Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:41Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:42Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:42Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:43Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:43Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:43Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:44Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:44Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:45Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:45Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:46Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:46Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:47Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:47Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:48Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:48Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:48Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:49Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:49Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:50Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:50Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:51Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:51Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:52Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:52Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:53Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:53Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:54Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:54Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:55Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:55Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:56Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:56Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:57Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:57Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:57Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:58Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:59Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:59Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:01:59Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:00Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:00Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:01Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:01Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:02Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:02Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:03Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:03Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:03Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:04Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:04Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:05Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:05Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:05Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:06Z INFO JobDispatcher] Job cancellation request 7bfb2677-e2a1-5b10-8eeb-8db2b37c4865 received, cancellation timeout 5 minutes.
+[2025-08-14 10:02:06Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2025-08-14 10:02:06Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=536dc222-7a56-4b29-bb81-d863eb933f61&status=Online&runnerVersion=2.327.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2025-08-14 10:02:06Z ERR  BrokerServer] Catch exception during request
+[2025-08-14 10:02:06Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2025-08-14 10:02:06Z ERR  BrokerServer] #####################################################
+[2025-08-14 10:02:06Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2025-08-14 10:02:06Z ERR  BrokerServer] #####################################################
+[2025-08-14 10:02:06Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2025-08-14 10:02:06Z ERR  BrokerServer] #####################################################
+[2025-08-14 10:02:06Z ERR  BrokerServer] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2025-08-14 10:02:06Z WARN BrokerServer] Back off 7.956 seconds before next retry. 4 attempt left.
+[2025-08-14 10:02:06Z INFO BrokerMessageListener] Get next message has been cancelled.
+[2025-08-14 10:02:06Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-08-14 10:02:06Z INFO Runner] Deleting Runner Session...
+[2025-08-14 10:02:07Z INFO Listener] Runner execution been cancelled.
