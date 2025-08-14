@@ -8,7 +8,7 @@ on:
 jobs:
   build-and-run:
     # Menggunakan label 'self-hosted' agar job dijalankan di runner lokal Anda
-    runs-on: self-hosted
+    runs-on: windows-latest
 
     steps:
       - name: Checkout Repository
