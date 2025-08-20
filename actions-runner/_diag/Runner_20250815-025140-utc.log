@@ -1,0 +1,336 @@
+[2025-08-15 02:51:40Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'Credentials': 'C:\laragon\www\fiberx\actions-runner\.credentials'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'Runner': 'C:\laragon\www\fiberx\actions-runner\.runner'
+[2025-08-15 02:51:40Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-08-15 02:51:40Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2025-08-15 02:51:40Z INFO Listener] Version: 2.327.1
+[2025-08-15 02:51:40Z INFO Listener] Commit: 9513afd82fbc900d13362cdd4fcdab0538f5124e
+[2025-08-15 02:51:40Z INFO Listener] Culture: en-US
+[2025-08-15 02:51:40Z INFO Listener] UI Culture: en-US
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO Listener] Validating directory permissions for: 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO CommandLineParser] Parse
+[2025-08-15 02:51:40Z INFO CommandLineParser] Parsing 1 args
+[2025-08-15 02:51:40Z INFO CommandLineParser] parsing argument
+[2025-08-15 02:51:40Z INFO CommandLineParser] HasArgs: False
+[2025-08-15 02:51:40Z INFO CommandLineParser] Adding Command: run
+[2025-08-15 02:51:40Z INFO Listener] Arguments parsed
+[2025-08-15 02:51:40Z INFO Runner] ExecuteCommand
+[2025-08-15 02:51:40Z INFO ConfigurationStore] currentAssemblyLocation: C:\laragon\www\fiberx\actions-runner\bin\Runner.Listener.dll
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] binPath: C:\laragon\www\fiberx\actions-runner\bin
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] RootFolder: C:\laragon\www\fiberx\actions-runner
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'Runner': 'C:\laragon\www\fiberx\actions-runner\.runner'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] ConfigFilePath: C:\laragon\www\fiberx\actions-runner\.runner
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\laragon\www\fiberx\actions-runner\.runner_migrated'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] MigratedConfigFilePath: C:\laragon\www\fiberx\actions-runner\.runner_migrated
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'Credentials': 'C:\laragon\www\fiberx\actions-runner\.credentials'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] CredFilePath: C:\laragon\www\fiberx\actions-runner\.credentials
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\laragon\www\fiberx\actions-runner\.credentials_migrated'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] MigratedCredFilePath: C:\laragon\www\fiberx\actions-runner\.credentials_migrated
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'Service': 'C:\laragon\www\fiberx\actions-runner\.service'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] ServiceConfigFilePath: C:\laragon\www\fiberx\actions-runner\.service
+[2025-08-15 02:51:40Z INFO CommandSettings] Flag 'help': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Flag 'version': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Flag 'check': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Command 'configure': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Command 'remove': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-08-15 02:51:40Z INFO ConfigurationManager] LoadSettings
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsConfigured()
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-15 02:51:40Z INFO ConfigurationManager] Is configured: True
+[2025-08-15 02:51:40Z INFO ConfigurationStore] Read setting file: 386 chars
+[2025-08-15 02:51:40Z INFO ConfigurationManager] Settings Loaded
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-08-15 02:51:40Z INFO CommandSettings] Command 'run': 'True'
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsConfigured()
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-15 02:51:40Z INFO ConfigurationManager] Is configured: True
+[2025-08-15 02:51:40Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-08-15 02:51:40Z INFO Runner] Set runner startup type - Manual
+[2025-08-15 02:51:40Z INFO CommandSettings] Flag 'once': 'False'
+[2025-08-15 02:51:40Z INFO CommandSettings] Flag 'once': 'False'
+[2025-08-15 02:51:40Z INFO Runner] RunAsync
+[2025-08-15 02:51:40Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-08-15 02:51:40Z INFO ConfigurationStore] IsMigratedConfigured: True
+[2025-08-15 02:51:40Z INFO ConfigurationStore] Read migrated setting file: 386 chars
+[2025-08-15 02:51:40Z INFO ConfigurationManager] Migrated Settings Loaded
+[2025-08-15 02:51:40Z INFO Runner] Loaded migrated settings from .runner_migrated file
+[2025-08-15 02:51:40Z INFO Runner] {
+  "AgentId": 22,
+  "AgentName": "JO",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/HLVvYa4EQ4gmli2xAFp0jlQMUfJshCbH1feiOknxmXHeaFb9SZ/",
+  "GitHubUrl": "https://github.com/jauharimalik/fiberx",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-08-15 02:51:40Z INFO Runner] Attempting to create session using migrated settings
+[2025-08-15 02:51:40Z INFO Runner] Using BrokerMessageListener
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] Using provided settings
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] Using migrated settings from .runner_migrated
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] {
+  "AgentId": 22,
+  "AgentName": "JO",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/HLVvYa4EQ4gmli2xAFp0jlQMUfJshCbH1feiOknxmXHeaFb9SZ/",
+  "GitHubUrl": "https://github.com/jauharimalik/fiberx",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] Loading Credentials
+[2025-08-15 02:51:40Z INFO ConfigurationStore] HasCredentials()
+[2025-08-15 02:51:40Z INFO ConfigurationStore] stored True
+[2025-08-15 02:51:40Z INFO CredentialManager] GetCredentialProvider
+[2025-08-15 02:51:40Z INFO CredentialManager] Creating type OAuth
+[2025-08-15 02:51:40Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 02:51:40Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 02:51:40Z INFO HostContext] Well known config file 'RSACredentials': 'C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams'
+[2025-08-15 02:51:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] Attempt to create session.
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-08-15 02:51:40Z INFO ConfigurationStore] HasCredentials()
+[2025-08-15 02:51:40Z INFO ConfigurationStore] stored True
+[2025-08-15 02:51:40Z INFO CredentialManager] GetCredentialProvider
+[2025-08-15 02:51:40Z INFO CredentialManager] Creating type OAuth
+[2025-08-15 02:51:40Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-15 02:51:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] VssConnection created
+[2025-08-15 02:51:40Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-08-15 02:51:40Z INFO RunnerServer] EstablishVssConnection
+[2025-08-15 02:51:40Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-08-15 02:51:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-15 02:51:40Z INFO RunnerServer] EstablishVssConnection
+[2025-08-15 02:51:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-15 02:51:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-15 02:51:40Z INFO RunnerServer] EstablishVssConnection
+[2025-08-15 02:51:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-15 02:51:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-15 02:51:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-15 02:51:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-15 02:51:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-15 02:51:41Z INFO BrokerMessageListener] VssConnection created
+[2025-08-15 02:51:41Z INFO Terminal] WRITE LINE: 
+[2025-08-15 02:51:41Z INFO Terminal] WRITE LINE: 
+[2025-08-15 02:51:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 02:51:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 02:51:42Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 02:51:44Z INFO BrokerMessageListener] Session created.
+[2025-08-15 02:51:44Z INFO Runner] Successfully created session with migrated settings
+[2025-08-15 02:51:44Z INFO Terminal] WRITE LINE: Current runner version: '2.327.1'
+[2025-08-15 02:51:44Z INFO Terminal] WRITE LINE: 2025-08-15 02:51:44Z: Listening for Jobs
+[2025-08-15 02:51:44Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-08-15 03:00:57Z WARN GitHubActionsService] Attempt 1 of GET request to https://broker.actions.githubusercontent.com/message?sessionId=4588a197-000b-4006-ab4a-4b7d942f41cc&status=Online&runnerVersion=2.327.1&os=Windows&architecture=X64&disableUpdate=false failed (Socket Error: ConnectionReset). The operation will be retried in 10.921 seconds.
+[2025-08-15 03:42:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 03:42:17Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 04:32:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 04:32:40Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 05:23:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 05:23:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 06:13:23Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 06:13:24Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 07:03:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 07:03:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 07:54:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 07:54:13Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 08:44:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 08:44:39Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 09:35:03Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 09:35:04Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 10:25:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 10:25:31Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 11:15:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 11:15:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 12:06:28Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 12:06:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 12:10:10Z WARN GitHubActionsService] Attempt 1 of GET request to https://broker.actions.githubusercontent.com/message?sessionId=4588a197-000b-4006-ab4a-4b7d942f41cc&status=Online&runnerVersion=2.327.1&os=Windows&architecture=X64&disableUpdate=false failed (Socket Error: ConnectionReset). The operation will be retried in 10.958 seconds.
+[2025-08-15 12:57:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 12:57:18Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 13:24:47Z INFO Runner] Received RunnerRefreshConfigMessage for 'runner' config file
+[2025-08-15 13:24:47Z INFO RunnerConfigUpdater] Verifying runner qualified id: U_kgDOAIytEA/R_kgDOPco3gA/self-hosted/22
+[2025-08-15 13:24:47Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-15 13:24:47Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-15 13:24:47Z INFO HostContext] Well known config file 'Runner': 'C:\laragon\www\fiberx\actions-runner\.runner'
+[2025-08-15 13:24:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 13:24:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 13:24:49Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 13:24:49Z INFO ConfigurationStore] Saving runner migrated settings
+[2025-08-15 13:24:49Z INFO ConfigurationStore] Delete exist runner migrated settings file.
+[2025-08-15 13:24:49Z INFO ConfigurationStore] Migrated Settings Saved.
+[2025-08-15 13:24:50Z INFO Runner] Runner configuration was updated. Session restart has been scheduled
+[2025-08-15 13:24:50Z INFO Runner] Pending session restart detected and job dispatcher is not busy. Restarting session now.
+[2025-08-15 13:24:50Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-08-15 13:24:50Z INFO Runner] Deleting Runner Session...
+[2025-08-15 13:24:50Z INFO Runner] Restarting runner session after config update...
+[2025-08-15 13:24:50Z INFO Runner] Runner configuration was refreshed, restarting session...
+[2025-08-15 13:24:50Z INFO ConfigurationManager] LoadSettings
+[2025-08-15 13:24:50Z INFO ConfigurationStore] IsConfigured()
+[2025-08-15 13:24:50Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-15 13:24:50Z INFO ConfigurationManager] Is configured: True
+[2025-08-15 13:24:50Z INFO ConfigurationManager] Settings Loaded
+[2025-08-15 13:24:50Z INFO Runner] RunAsync
+[2025-08-15 13:24:50Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-08-15 13:24:50Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-08-15 13:24:50Z INFO ConfigurationStore] IsMigratedConfigured: True
+[2025-08-15 13:24:50Z INFO ConfigurationManager] Migrated Settings Loaded
+[2025-08-15 13:24:50Z INFO Runner] Loaded migrated settings from .runner_migrated file
+[2025-08-15 13:24:50Z INFO Runner] {
+  "AgentId": 22,
+  "AgentName": "JO",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/HLVvYa4EQ4gmli2xAFp0jlQMUfJshCbH1feiOknxmXHeaFb9SZ/",
+  "GitHubUrl": "https://github.com/jauharimalik/fiberx",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-08-15 13:24:50Z INFO Runner] Attempting to create session using migrated settings
+[2025-08-15 13:24:50Z INFO Runner] Using BrokerMessageListener
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] Using provided settings
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] Using migrated settings from .runner_migrated
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] {
+  "AgentId": 22,
+  "AgentName": "JO",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/HLVvYa4EQ4gmli2xAFp0jlQMUfJshCbH1feiOknxmXHeaFb9SZ/",
+  "GitHubUrl": "https://github.com/jauharimalik/fiberx",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] Loading Credentials
+[2025-08-15 13:24:50Z INFO ConfigurationStore] HasCredentials()
+[2025-08-15 13:24:50Z INFO ConfigurationStore] stored True
+[2025-08-15 13:24:50Z INFO CredentialManager] GetCredentialProvider
+[2025-08-15 13:24:50Z INFO CredentialManager] Creating type OAuth
+[2025-08-15 13:24:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-15 13:24:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] Attempt to create session.
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-08-15 13:24:50Z INFO ConfigurationStore] HasCredentials()
+[2025-08-15 13:24:50Z INFO ConfigurationStore] stored True
+[2025-08-15 13:24:50Z INFO CredentialManager] GetCredentialProvider
+[2025-08-15 13:24:50Z INFO CredentialManager] Creating type OAuth
+[2025-08-15 13:24:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-15 13:24:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] VssConnection created
+[2025-08-15 13:24:50Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-08-15 13:24:50Z INFO RunnerServer] EstablishVssConnection
+[2025-08-15 13:24:50Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-08-15 13:24:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-15 13:24:50Z INFO RunnerServer] EstablishVssConnection
+[2025-08-15 13:24:50Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-15 13:24:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-15 13:24:50Z INFO RunnerServer] EstablishVssConnection
+[2025-08-15 13:24:50Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-15 13:24:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-15 13:24:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-15 13:24:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-15 13:24:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-15 13:24:51Z INFO BrokerMessageListener] VssConnection created
+[2025-08-15 13:24:51Z INFO Terminal] WRITE LINE: 
+[2025-08-15 13:24:51Z INFO Terminal] WRITE LINE: 
+[2025-08-15 13:24:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 13:24:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 13:24:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 13:24:53Z INFO BrokerMessageListener] Session created.
+[2025-08-15 13:24:53Z INFO Runner] Successfully created session with migrated settings
+[2025-08-15 13:24:53Z INFO Terminal] WRITE LINE: Current runner version: '2.327.1'
+[2025-08-15 13:24:53Z INFO Terminal] WRITE LINE: 2025-08-15 13:24:53Z: Listening for Jobs
+[2025-08-15 13:24:53Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-08-15 14:15:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 14:15:12Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 15:05:29Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 15:05:30Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 15:55:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 15:55:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 16:46:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 16:46:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 17:36:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 17:36:26Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 18:26:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 18:26:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 19:17:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 19:17:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 20:07:22Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 20:07:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 20:57:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 20:57:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 21:48:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 21:48:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 22:38:18Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 22:38:19Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-15 23:28:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-15 23:28:39Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-16 00:18:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-16 00:18:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-16 01:09:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-16 01:09:15Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-16 01:59:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-16 01:59:33Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-16 02:49:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-16 02:49:51Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-16 02:51:30Z INFO Runner] Refresh message received, kick-off selfupdate background process.
+[2025-08-16 02:51:31Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-16 02:51:31Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\laragon\www\fiberx\actions-runner\.credentials_rsaparams
+[2025-08-16 02:51:32Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-16 02:51:33Z INFO SelfUpdater] Version '2.328.0' of 'agent' package available in server.
+[2025-08-16 02:51:33Z INFO SelfUpdater] Current running runner version is 2.327.1
+[2025-08-16 02:51:33Z INFO SelfUpdater] An update is available.
+[2025-08-16 02:51:33Z INFO Terminal] WRITE LINE: Runner update in progress, do not shutdown runner.
+[2025-08-16 02:51:33Z INFO SelfUpdater] RunnerPlatform: win-x64
+[2025-08-16 02:51:33Z INFO Terminal] WRITE LINE: Downloading 2.328.0 runner
+[2025-08-16 02:51:33Z INFO HostContext] Well known directory 'Bin': 'C:\laragon\www\fiberx\actions-runner\bin'
+[2025-08-16 02:51:33Z INFO HostContext] Well known directory 'Root': 'C:\laragon\www\fiberx\actions-runner'
+[2025-08-16 02:51:33Z INFO HostContext] Well known directory 'Work': 'C:\laragon\www\fiberx\actions-runner\_work'
+[2025-08-16 02:51:33Z INFO Terminal] WRITE LINE: Runner update process finished.
+[2025-08-16 02:51:33Z INFO SelfUpdater] System.IO.FileNotFoundException: 
+File name: 'System.Linq.Parallel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at GitHub.Runner.Sdk.IOUtil.DeleteDirectory(String path, Boolean contentsOnly, Boolean continueOnContentDeleteError, CancellationToken cancellationToken)
+   at GitHub.Runner.Sdk.IOUtil.DeleteDirectory(String path, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.SelfUpdater.DownloadLatestRunner(CancellationToken token, String targetVersion)
+   at GitHub.Runner.Listener.SelfUpdater.SelfUpdate(AgentRefreshMessage updateMessage, IJobDispatcher jobDispatcher, Boolean restartInteractiveRunner, CancellationToken token)
+[2025-08-16 02:51:34Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-08-16 02:51:34Z INFO Runner] Deleting Runner Session...
+[2025-08-16 02:51:35Z ERR  Terminal] WRITE ERROR: An error occurred: 
+[2025-08-16 02:51:35Z ERR  Listener] System.IO.FileNotFoundException: 
+File name: 'System.Linq.Parallel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at GitHub.Runner.Sdk.IOUtil.DeleteDirectory(String path, Boolean contentsOnly, Boolean continueOnContentDeleteError, CancellationToken cancellationToken)
+   at GitHub.Runner.Sdk.IOUtil.DeleteDirectory(String path, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.SelfUpdater.DownloadLatestRunner(CancellationToken token, String targetVersion)
+   at GitHub.Runner.Listener.SelfUpdater.SelfUpdate(AgentRefreshMessage updateMessage, IJobDispatcher jobDispatcher, Boolean restartInteractiveRunner, CancellationToken token)
+   at GitHub.Runner.Listener.SelfUpdater.SelfUpdate(AgentRefreshMessage updateMessage, IJobDispatcher jobDispatcher, Boolean restartInteractiveRunner, CancellationToken token)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteRunnerAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)

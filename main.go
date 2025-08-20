@@ -50,6 +50,7 @@ func main() {
 	// go handlers.StartJarakUpdater()
 	go handlers.Cekplat()
 	go handlers.RunDeleteSkpTask()
+	go handlers.RunUploadLampiranAuto()
 	go handlers.KirimUltah()
 	go handlers.KirimKontrak()
 	go handlers.StartDailyExcelToJsonUpdater()
