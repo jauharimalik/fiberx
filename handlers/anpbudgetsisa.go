@@ -30,11 +30,11 @@ func AnpBudgetSisaHandler(c *fiber.Ctx) error {
 	baseSQL := `
 	WITH BrandBudget AS (
 		SELECT DISTINCT
-			t2x.BrandCode,
-			(SELECT TOP 1 BudgetCode FROM [APPSRV].[PK_ANP_DEV_QUERY].dbo.tb_operating_proposal t1x WHERE t1x.BudgetCode LIKE '%' + t2x.BrandCode + '%' AND t1x.BrandCode = t2x.BrandCode ORDER BY t1x.BudgetCode DESC) AS BudgetCode
-		FROM [APPSRV].[PK_ANP_DEV_QUERY].dbo.tb_operating_proposal t2x
-		WHERE t2x.BudgetCode IS NOT NULL
-			AND t2x.BudgetCode != ''
+			t0x.BrandCode,
+			isnull((SELECT TOP 1 BudgetCode FROM [APPSRV].[PK_ANP_DEV_QUERY].dbo.tb_operating_proposal t1x WHERE t1x.BudgetCode LIKE '%' + t0x.BudgetCode + '%' AND t1x.BrandCode = t0x.BrandCode ORDER BY t1x.BudgetCode DESC),t0x.BudgetCode) AS BudgetCode
+		FROM [APPSRV].[PK_ANP_DEV_QUERY].dbo.tb_operating t0x
+		left join [APPSRV].[PK_ANP_DEV_QUERY].dbo.tb_operating_proposal t2x on t0x.BudgetCode = t2x.BudgetCode
+		WHERE t0x.BudgetCode IS NOT NULL
 	)
 	SELECT
 		mpr.no AS Number,
